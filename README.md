@@ -1,4 +1,4 @@
-# toio-serial-bridge
+# toio-serial bridge
 
 M5StickC経由でのシリアル通信によるtoio制御
 
